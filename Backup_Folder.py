@@ -5,23 +5,8 @@
 # print('>>>>:',sys._getframe().f_lineno); sys.exit()
 import time
 t_code_start = time.perf_counter()
-
 import sys, os
-
-
-'''
-• Control Panel:
-================================================='''
-# Declare initial variables:
-on=True; off=False; debug_mode=(); pause_code=()
-
-# debug_mode = True ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## ######## 
-
-if debug_mode:
-    pass
-    p=True                    # print outputs
-else:
-    pause_code=True
+pause_code=True
 # print('\n>>>',sys._getframe().f_lineno); sys.exit()
 
 
