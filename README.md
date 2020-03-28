@@ -1,5 +1,5 @@
 # PC-Automation
-Anything what helps to improve productivity with work on PC
+Anything what helps to improve productivity with work on PC.
 
 Lightweight python script to backup your favourite folder in different directory, for example USB drive, with one click.
 You need to just define 3 very simple parameters:
