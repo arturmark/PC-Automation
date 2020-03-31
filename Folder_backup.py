@@ -2,7 +2,7 @@
 '''
 • Control Panel:
 ================================================='''
-    on=True; off=False; exe=(); pause_code=(); debug_mode=()
+'on=True; off=False; exe=(); pause_code=(); debug_mode=()'
 # --------------------------------------------------------
 exe=True            # Execu/te code (copy, remove)   [#...] [X]
 pause_code=True     # Pause code
