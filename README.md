@@ -11,3 +11,4 @@ This script will create two folder backups: folder-copy and folder-copy-old, jus
 
 *The idea is to backup small folders, for example with most recent work, which you want to be backed up frequently.
 
+![Job Categories](https://github.com/arturmark/PC-Automation/blob/master/Folder_backup%20output.png)
